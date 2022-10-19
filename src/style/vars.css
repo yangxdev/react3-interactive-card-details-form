@@ -1,0 +1,13 @@
+:root {
+    --color-lineargradient: hsl(249,99%,64%) to hsl(278, 94%, 30%);
+    --color-red: hsl(0, 100%, 66%);
+    --color-white: hsl(0, 0%, 100%);
+    --color-lightgrayishviolet: hsl(270, 3%, 87%);
+    --color-darkgrayishviolet: hsl(279, 6%, 55%);
+    --color-verydarkviolet: hsl(278, 68%, 11%);
+}
+
+* {
+    user-select: none;
+}
+
